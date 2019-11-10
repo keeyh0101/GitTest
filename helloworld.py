@@ -1,2 +1,2 @@
 print("Hello, world!")
-a = 123
+a = 456
